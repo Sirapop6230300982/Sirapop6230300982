@@ -1,5 +1,10 @@
-### Hi there 👋
+# Greeting and Salutation
 
+My name is Sirapop or you can call me Hop, I'm 21 years old.
+
+# Status
+
+Currently, I'm a senior student in Kasetsart Sriracha Campus. I am
 <!--
 **Sirapop6230300982/Sirapop6230300982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
