@@ -2,9 +2,14 @@
 
 My name is Sirapop or you can call me Hop, I'm 21 years old.
 
-# Status
+## Status
 
-Currently, I'm a senior student in Kasetsart Sriracha Campus. I am
+Currently, I'm a senior student in Kasetsart Sriracha Campus. I am majority in Computer Engineering 
+
+## My Language Stats
+
+![GitHub Stats]([https://github-readme-stats.vercel.ap...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0dKeEpHM2k4dnd3ZEc4dVpSa2lRc2I1VFZHQXxBQ3Jtc0tuWi05TWNOT3BLVURmVXJ5S0NpbmhTUEpGMUI1WHBiZ3BhV0VlT0VkSXhHOXJwQ3I2dVo2Y3JCQ1hybEI3QzBmV1MwajQ2YURtdmV4bW5pZDdUemdyeVh6RFhQajVmcWdVT1l5VzJuYzRBX2VsdDdRVQ&q=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3D&v=oX7IyjHBhy0) &theme=radical)
+
 <!--
 **Sirapop6230300982/Sirapop6230300982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
