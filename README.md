@@ -4,7 +4,7 @@ My name is Sirapop or you can call me Hop, I'm 21 years old.
 
 ## Status
 
-Currently, I'm a senior student in Kasetsart Sriracha Campus. I am majority in Computer Engineering 
+Currently, I'm a senior student in Kasetsart Sriracha Campus. I am majority in Computer Engineering.
 
 ## My Language Stats
 
